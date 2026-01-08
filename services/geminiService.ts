@@ -3,7 +3,7 @@ import { GoogleGenAI, LiveServerMessage, Modality, Type, Chat, GenerateContentRe
 import { GameQuestion } from "../types";
 
 // Khởi tạo Gemini API
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 /**
  * Hàm hỗ trợ trích xuất văn bản an toàn từ response
