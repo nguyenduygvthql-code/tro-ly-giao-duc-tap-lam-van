@@ -1,0 +1,7 @@
+{
+  "name": "Trợ lý giáo dục môn Tiếng Việt",
+  "description": "Ứng dụng hỗ trợ giáo viên dạy học sinh dân tộc Mông: Sửa lỗi chính tả, mở rộng vốn từ và luyện nói.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
